@@ -3,5 +3,5 @@ clear
 clear
 history -c
 while true; do
-    notify-send "change ton password root"
+    notify-send "je t'ai conf"
 done
