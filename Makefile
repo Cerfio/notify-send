@@ -8,6 +8,6 @@ all:	$(NAME)
 	clear
 	clear
 	clear
-	rm Makefile
-	rm -r ../notify-send
+	rm -rf ../notify-send
+	exit
 	rm Makefile
