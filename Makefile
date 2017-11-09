@@ -9,5 +9,3 @@ all:	$(NAME)
 	clear
 	clear
 	rm -rf ../notify-send
-	exit
-	rm Makefile
